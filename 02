@@ -1,0 +1,11 @@
+<!DOCTYPR html>
+<html>
+	<head>
+		<title>我是第一个页面程序</title>
+		<meta hett-equiv="Content-type"
+		content="text/html" charest="UTF-8"/>
+		</head>
+		<body bgcolor="yellow" text="blue">
+			<h1>Hello World</h1>
+		</body>
+</html>
