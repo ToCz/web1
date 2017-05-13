@@ -1,0 +1,19 @@
+		.menu{
+			width:100%;
+			height:100px;
+			background-image: url("image/bg.gif");
+			height: 40px;
+			
+			
+			}
+		li{
+			display: inline;
+			
+
+		}
+		a{
+			color: white;
+			text-decoration: none;
+			text-align: center;
+
+		}
