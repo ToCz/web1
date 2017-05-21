@@ -1,0 +1,38 @@
+			.menu{	
+		
+			margin-left: 40px;
+
+			display: block;
+			background-image:url("left_nav_txt.gif");
+			background-repeat: repeat-y;
+			height: 175px;
+	
+			}
+			a{
+				background-image:url("left_cur.gif");
+				background-repeat: no-repeat;
+				text-decoration: none;
+				
+				background-image:url("left_nav_item.gif");
+				background-repeat: no-repeat;
+				color: black;
+			}
+			
+		#titlediv{
+				padding:10px 50px; 	
+				color:white;
+				background-image:url("left_nav_title.gif");
+				background-repeat: no-repeat;
+				height: 50px;	
+
+}
+		li
+				{list-style-type:none;}
+
+		#footerdiv{
+				background-image:url("left_nav_bottom.gif");
+				background-repeat: no-repeat;
+				height: 50px;
+				margin-left: 40px;
+				padding-top: 5px;
+}
