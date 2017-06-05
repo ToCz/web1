@@ -1,0 +1,85 @@
+
+		#big{
+			width: 100%;
+			height: 700px;
+			margin-top: 200px;
+		}
+		#bali{
+			width: 280px;
+			height: 290px;
+			border:solid 1px red;
+			float: left;
+			text-align: center;
+		}
+		#balia{
+			width: 250px;
+			height: 250px;
+			margin: 10px;
+		}
+		#beiou{
+			width: 280px;
+			height: 290px;
+			border:solid 1px red;
+			float: left;
+			text-align: center;
+		}
+		#beioua{
+			width: 250px;
+			height: 250px;
+			margin: 10px;
+		}
+		#huashengdun{
+			width: 280px;
+			height: 290px;
+			border:solid 1px red;
+			float: left;
+			text-align: center;
+		}
+		#huashengduna{
+			width: 250px;
+			height: 250px;
+			margin: 10px;
+		}
+		#lundun{
+			width: 280px;
+			height: 290px;
+			border:solid 1px red;
+			float: left;
+			text-align: center;
+		}
+		#lunduna{
+			width: 250px;
+			height: 250px;
+			margin: 10px;
+		}
+		#weinisi{
+			width: 280px;
+			height: 290px;
+			border:solid 1px red;
+			float: left;
+			text-align: center;
+		}
+		#weinisia{
+			width: 250px;
+			height: 250px;
+			margin: 10px;
+		}
+		#bali a:hover{
+			opacity:0.5;
+		}
+		#beiou a:hover{
+			opacity:0.5;
+		}
+		#huashengdun a:hover{
+			opacity:0.5;
+		}
+		#lundun a:hover{
+			opacity:0.5;
+		}
+		#weinisi a:hover{
+			opacity:0.5;
+		}
+
+
+
+
